@@ -29,7 +29,7 @@ This project requires no special installation. Simply clone the repository and o
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/Guruprashad-17/ArcheryGame.git](https://github.com/Guruprashad-17/ArcheryGame.git)
+    git clone https://github.com/Guruprashad-17/ArcheryGame.git
     ```  
 
 2.  **Navigate to the project directory:**

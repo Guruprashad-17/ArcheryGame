@@ -27,19 +27,15 @@ An interactive and fun browser-based Archery Game built with pure HTML, CSS, and
 
 This project requires no special installation. Simply clone the repository and open the main HTML file in your browser.
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
+    git clone [https://github.com/Guruprashad-17/ArcheryGame.git](https://github.com/Guruprashad-17/ArcheryGame.git)
+    ```  
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd ArcheryGame
     ```
-
-3.  **Open the `index.html` file** in your favorite web browser (like Chrome, Firefox, or Edge).
-
-And that's it! You're ready to play.
 
 ---
 
